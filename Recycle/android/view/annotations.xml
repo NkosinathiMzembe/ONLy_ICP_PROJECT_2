@@ -1,5 +1,0 @@
-<root>
-    <item name='android.view.View.OnClickListener'>
-        <annotation name='java.lang.Deprecated' />
-    </item>
-</root>
